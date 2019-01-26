@@ -1,3 +1,3 @@
 # day-one
 
-##The Best Page EVER
+The Best Page EVER
